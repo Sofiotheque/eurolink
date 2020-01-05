@@ -1,5 +1,3 @@
-//Adsense
-(function() { var ad = document.createElement('script'); ad.type = 'text/javascript'; ad.async = true; ad.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'; var sc = document.getElementsByTagName('script')[0]; sc.parentNode.insertBefore(ad, sc); })();
 //Footer fixe audiencerun
 (function(){var a=document.createElement("script"),b=document.getElementsByTagName("script")[0]; a.src="https://d.audiencerun.com/c/x1d14pjy67?d"+(new Date).getTime()+"&r="; try{a.src+=encodeURIComponent(top.document.referrer)}catch(c){a.src+=encodeURIComponent(document.referrer)}a.type="text/javascript"; a.async=!0;b.parentNode.insertBefore(a,b)})(); 
 //Header fixe audiencerun
