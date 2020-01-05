@@ -1,4 +1,4 @@
-var numfeed = 10;
+var numfeed = 5;
 var startfeed = 0;
 var urlblog = "https://usanow.sofiotheque.info";
 var charac = 0;
